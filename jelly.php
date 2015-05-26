@@ -3,7 +3,7 @@
 	 * Plugin Name: Jelly
 	 * Plugin URI: http://lumne.net/plugins/jelly
 	 * Description: Slideshow designed and developed by Lumne.
-	 * Version: 0.4
+	 * Version: 1.0
 	 * Author: Chad Milburn
 	 * Author URI: http://lumne.net
 	 * License: GPL2
