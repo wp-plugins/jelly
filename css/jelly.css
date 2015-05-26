@@ -1,0 +1,34 @@
+.jelly{
+	position:relative;
+	/*max-width:909px;*/
+}
+
+.jelly .top-show {
+	display:block;
+	position:relative;
+	overflow:hidden;
+	width:100%;
+}
+
+.jelly .top-show:after{
+	clear:both;
+}
+
+.jelly .jelly_image{
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	width:100%;
+	height:auto;
+	display:block;
+	font-size:0;
+}
+
+.jelly .jelly_image > img{
+	height:auto;
+	width:100%;
+}
+
+.ui-effects-wrapper{
+    z-index: 3 !important;
+}
